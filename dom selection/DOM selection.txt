@@ -1,0 +1,22 @@
+DOM selection Method
+
+- getElementById = element
+method yang paling simple, kita memilih element yang ada didalam dom,
+berdasarkan id nya. dalam 1 dokumen itu hanya boleh ada 1 elemen yang memiliki id tertentu..
+hanya boleh memiliki id yang spesifik untuk 1 element..
+
+- getElementsByTagName = HTMLCollection
+artinya adalah, javascript tolong carikan saya elemen - elemen yang memiliki nama
+tag tertentu.
+
+-getElementsByClassName = HTMLCollection
+class boleh dimiliki oleh lebih dari 1 element
+
+-querySelector = element
+-querySelectorAll = nodeList
+
+kedua method diatas querySelector dan querySelectorAll digunakan untuk mencari element berdasarkan selectornya.
+
+
+
+

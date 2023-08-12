@@ -69,3 +69,6 @@ body {
 .card:hover .close {
   color: red;
 }
+
+@keyframes fade {
+}
