@@ -1,0 +1,43 @@
+DOM (document object model)
+
+penjelasan DOM menurut mozilla
+dom adalah antarmuka pemrograman untuk html yang merepresentasikan halaman web, 
+sehingga program dapat mengubah dan memanipulasi strukturnya.
+
+document didalam dom
+document web = isi pada website
+
+object 
+object adalah sebuah nilai atau tipe data yang ada pada javascript
+
+object mempunyai properti
+object mempunyai method
+object mempunyai function
+function merupakan nilai didalam javascript
+
+model
+model adalah representasi terhadap sesuatu
+
+Penjelasan sederhana dari DOM
+representasi elemen HTML pada dokumen menjadi sebuah object
+
+
+DOM Tree pohon hierarki
+jika dibuat sebuah halaman web yang tersimpan representasi adalah sebagai DOM Tree
+
+DOM merupakan object yang lain yang lebih tinggi yang namanya window
+
+
+DOM
+- dom adalah antaruka pemrograman berbasis object yang merepresentasikan dokumen web
+- dom membuat seluruh komponen dari halaman web dapat diakses dan dimanipulasi
+- komponen dari dom terdiri dari 
+ *Elemen HTML
+ *Atribut
+ *text
+ *dan lain lain
+
+-DOM dapat dimanipulasi (dibuat, diubah, dihapus) menggunakan javascript
+
+
+
